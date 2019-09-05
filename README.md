@@ -9,9 +9,10 @@ client and master applications can be written in the language of any choice.
 
 #### the .proto file shows the basic schema of the address book database
 
-####adding new contact
+#### adding new contact
 
 $python3 writer.py new.txt
 
-####retrieving the address book
+#### retrieving the address book
+
 $python3 reader.py new.txt
